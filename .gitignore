@@ -1,3 +1,6 @@
+# Ignore Practice Folder
+Practice_Plotly_Charts
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
