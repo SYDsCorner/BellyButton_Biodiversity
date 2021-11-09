@@ -1,5 +1,8 @@
-# Ignore Practice Folder
+# Ignore Practice Folders
 Practice_Plotly_Charts
+Practice_Functional_JavaScript
+Practice_JavaScript_Methods
+Practice_d3.json()_SpaceX_API
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
