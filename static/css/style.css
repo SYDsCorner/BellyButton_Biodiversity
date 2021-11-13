@@ -1,0 +1,21 @@
+/* Apply a light text to the body */
+body {
+    background: linear-gradient(to left top, midnightblue, black);
+    color: #f7f7f7;
+}
+
+/* Customize the Jumbotron */
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+/* Change color in the panel-body */
+.panel-body {
+    background: black;}
+
+/* Change Text Color of Selected Option in a Select Box */
+select {
+    color: black; 
+}
