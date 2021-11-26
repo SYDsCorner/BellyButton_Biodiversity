@@ -16,7 +16,7 @@
    - JavaScript
    - BootStrap 
 
-- Data sourced: 
+- Data source: 
    - [samples.json](https://github.com/SYDsCorner/BellyButton_Biodiversity/blob/main/static/json/samples.json)
 
 
