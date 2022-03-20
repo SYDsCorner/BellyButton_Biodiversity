@@ -3,7 +3,6 @@
 ![Belly-Button-Biodiversity](https://user-images.githubusercontent.com/89308251/141609810-c1f2fa5c-6357-4cc1-b48b-50cecb20f717.jpg)
 
 
-
 ## Challenge Overview
 
 ### Purpose:
@@ -22,7 +21,7 @@
 
 ## Results 
 
-- The webpage is "[Belly Button Biodiversity](https://sydscorner.github.io/BellyButton_Biodiversity/)" 
+- Belly Button Biodiversity Dashboard >> [Link to GitHub Pages](https://sydscorner.github.io/BellyButton_Biodiversity/) 
 
 
 ![BellyButton_Bio](https://user-images.githubusercontent.com/89308251/141608588-863229d7-62b4-49cb-b576-9bc6828c308d.png)
