@@ -21,7 +21,7 @@
 
 ## Results 
 
-- Belly Button Biodiversity Dashboard >> [Link to GitHub Pages](https://sydscorner.github.io/BellyButton_Biodiversity/) 
+> Belly Button Biodiversity Dashboard >> [Link to GitHub Pages](https://sydscorner.github.io/BellyButton_Biodiversity/) 
 
 
 ![BellyButton_Bio](https://user-images.githubusercontent.com/89308251/141608588-863229d7-62b4-49cb-b576-9bc6828c308d.png)
